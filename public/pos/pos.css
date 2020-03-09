@@ -1,0 +1,62 @@
+.pos {
+	
+}
+
+.pos-content {
+
+}
+
+.pos-mb {
+	margin-bottom: 0!important;
+}
+
+@media only screen and(min-width: 360px) {
+	.pos-mt {
+		margin-bottom: 1rem;
+	}
+	.pos-mb {
+		margin-bottom: 1rem;
+	}
+}
+
+.barcode {
+
+}
+
+.barcode .input-barcode {
+	height: 50px;
+}
+
+.barcode-results {
+
+}
+
+
+.cart-box {
+	overflow-y: scroll;
+    height: 400px;
+}
+
+.cart-box .input-qty {
+	width: 60px;
+	height: 40px;
+}
+
+
+/*@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}*/
